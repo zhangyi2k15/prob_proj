@@ -295,7 +295,7 @@ def find_max(close_div, periods=125):
 idx_max = find_max(close_div)
 '''
 
-def find_max(close_div,order=60):
+#def find_max(close_div,order=60):
     #=注意到data_test是一个dataframe，首先需要将其转化为ndarray
 
 
